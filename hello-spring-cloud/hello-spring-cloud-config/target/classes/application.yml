@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: hello-spring-cloud-config
+
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/LImingshiqi/Spring-Club-config
+          search-paths: respo
+          username: 1076089424@qq.com
+          password: l1076089424
+  zipkin:
+    base-url: http://localhost:9411
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

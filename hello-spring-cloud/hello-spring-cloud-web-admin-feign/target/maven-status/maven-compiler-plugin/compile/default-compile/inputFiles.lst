@@ -1,0 +1,4 @@
+E:\IDEA\Iwork\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\funtl\hello\spring\cloud\web\admin\feign\controller\AdminController.java
+E:\IDEA\Iwork\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\funtl\hello\spring\cloud\web\admin\feign\services\hystrix\AdminServiceHystrix.java
+E:\IDEA\Iwork\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\funtl\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
+E:\IDEA\Iwork\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\funtl\hello\spring\cloud\web\admin\feign\services\AdminService.java
